@@ -3,9 +3,8 @@
 ## Welcome to COMPSCI 713!
 This course is one of the four core courses of the Master of Artificial Intelligence program. It examines the core concepts and techniques in AI, including breakthroughs in symbolic AI, machine learning, and neural networks. Real-world applications are presented, with a focus on AI research in Aotearoa/NZ and ethical considerations.
 
-![The evolution of AI through time, seen by ChatGPT 5.2](./Images/ChatGPT Image Feb 10, 2026, 07_01_35 PM.png)
 <div align="center">
-  <img src="./Images/ChatGPT Image Feb 10, 2026, 07_01_35 PM.png" alt="AI生成的图片" width="600"/>
+  <img src="./Images/ChatGPT Image Feb 10, 2026, 07_01_35 PM.png" alt="AI生成的图片" width="300"/>
   <p><em>图：AI生成的课程相关图片</em></p>
 </div>
 
