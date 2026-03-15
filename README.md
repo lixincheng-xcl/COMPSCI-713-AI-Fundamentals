@@ -5,7 +5,7 @@ This course is one of the four core courses of the Master of Artificial Intellig
 
 <div align="center">
   <img src="./Images/ChatGPT Image Feb 10, 2026, 07_01_35 PM.png" alt="AI生成的图片" width="300"/>
-  <p><em>图：AI生成的课程相关图片</em></p>
+  <p><em>The evolution of AI through time, seen by ChatGPT 5.2</em></p>
 </div>
 
 ## Course Overview
