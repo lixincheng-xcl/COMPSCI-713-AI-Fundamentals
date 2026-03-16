@@ -80,7 +80,7 @@ By the end of this course, students will be able to: </br>
 
 ## Assessments
 <div align="center">
-  <table style="border-collapse:collapse; width:97.381% ;height: 110px;" border="1">
+  <table style="border-collapse:collapse; width:100% ;height: 110px;" border="1">
   <tbody>
   <tr style="height: 28px;">
     <th style="width: 49.9743%; height: 30px;" scope="col">Assessment Group</th>
