@@ -159,11 +159,19 @@ By the end of this course, students will be able to: </br>
       Individual Examination
     </td>
     </tr>
-
-    
 </tbody>
 </table>
 </div>
+
+• To pass the course, as well as obtaining at least 50% for your overall mark, you are also required to pass the combined theory component (midsemester test & final exam) of the course and the practical component (quizzes, assignments, presentation & group project) of the course. </br>
+
+• The theory component of the course is worth 50% of the overall mark and consists of the midsemester test worth 20% and the exam which is worth 30%. To pass this component of the course you need to get at least 25 out of 50. </br>
+
+• The practical component of the course is worth 50% of the overall marks and consists of the online quizzes worth 5% in total (1% per quiz), the workshop assignments worth 12% (6% each), the individual presentation worth 10% and the group project report which is worth 23%. </br>
+
+. To pass the practical component of the course you need to get at least 25 out of 50. </br>
+
+
 
 
 
