@@ -33,12 +33,10 @@ Xinyu Zhang
   </tr>
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Monday"
-      <span>&nbsp;</span>
-      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+      "Online quizzes:"
     </td>
     <td style="width: 49.9743%;">
-    <a class="inline_disabled" href="https://maps.auckland.ac.nz/auckland/fa64ffa351cb4fe680fa2929/details/23820e3cb052420ca5d7f90f&quot; target="_blank">BLT100/106-100</a>
+       "Individual Coursework"
     </td>
     </tr>
   <tr style="height: 28px;">
