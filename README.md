@@ -90,7 +90,7 @@ By the end of this course, students will be able to: </br>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      Online quizzes:
+      Online quizzes
     </td>
     <td style="width: 49.9743%;">
       5% (5 x 1%)
@@ -102,7 +102,7 @@ By the end of this course, students will be able to: </br>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      Individual Presentation Recording:
+      Individual Presentation Recording
     </td>
     <td style="width: 49.9743%;">
       10%
@@ -126,7 +126,7 @@ By the end of this course, students will be able to: </br>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      Group Research Report:
+      Group Research Report
     </td>
     <td style="width: 49.9743%;">
       23%
@@ -150,7 +150,7 @@ By the end of this course, students will be able to: </br>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      Final Exam: 
+      Final Exam
     </td>
     <td style="width: 49.9743%;">
       30%
