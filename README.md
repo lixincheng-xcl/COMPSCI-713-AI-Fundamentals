@@ -1,5 +1,6 @@
+# COMPSCI-713-AI-Fundamentals
+
 <div align="center">
-  # COMPSCI-713-AI-Fundamentals
   <p><em>2026 Semester One (1263)</em></p>
   <a class="inline_disabled" href="https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=COMPSCI%20713" target="_blank"> Course Outline </a>
 </div>
@@ -26,11 +27,32 @@ Xinyu Zhang
   <table style="border-collapse:collapse; width:97.381% ;height: 110px;" border="1">
   <caption>Times and locations</caption>
   <tbody>
-    <tr>
-      
+  <tr style="height: 28px;">
+    <th style="width: 49.9743%; height: 28px;" scope="col">When</th>
+    <th style="width: 49.9743%; height: 28px;" scope="col">Where</th>
+  </tr>
+  <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Monday"
+      «span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+    <a class="inline_disabled" href="https://maps.auckland.ac.nz/auckland/fa64ffa351cb4fe680fa2929/details/23820e3cb052420ca5d7f90f&quot; target="_blank">BLT100/106-100</a>
+    </td>
     </tr>
-  </tbody>
-    
-  </table>
+  <tr style="height: 28px;">
+    <td style="width: 49.9743%;">
+    "Thursday"
+    <span>&nbsp; </span>
+    <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$2" class="ps_box-value" aria-disabled="true">14:00 to 16:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+    <a class="inline_disabled" href="https://maps.auckland.ac.nz/auckland/fa64ffa351cb4fe680fa2929/details/23820e3cb052420ca5d7f90f&quot; target="_blank">BLT100/106-100</a>
+    </td>
+  </tr>
+</tbody>
+</table>
+<p>workshops will be held during the Thursday 2-hour session in Week 5 and Week 7.</p>
 </div>
 
