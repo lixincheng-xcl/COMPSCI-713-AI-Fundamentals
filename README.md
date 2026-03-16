@@ -33,7 +33,9 @@ Xinyu Zhang
   </tr>
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Online quizzes:"
+      "Monday"
+      <span>&nbsp; </span>
+    <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$2" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
     </td>
     <td style="width: 49.9743%;">
        "Individual Coursework"
@@ -88,73 +90,73 @@ By the end of this course, students will be able to: </br>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Monday"
+      "Online quizzes:"
     </td>
     <td style="width: 49.9743%;">
-      "Monday"
+      "	5% (5 x 1%)"
     </td>
     <td style="width: 49.9743%;">
-      "Monday"
-    </td>
-    </tr>
-    
-  <tr style="height: 26px;">
-    <td style="width: 49.9743%;">
-      "Monday"
-    </td>
-    <td style="width: 49.9743%;">
-      "Monday"
-    </td>
-    <td style="width: 49.9743%;">
-      "Monday"
+      "Individual Coursework"
     </td>
     </tr>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Monday"
+      "Individual Presentation Recording:"
     </td>
     <td style="width: 49.9743%;">
-      "Monday"
+      "10%"
     </td>
     <td style="width: 49.9743%;">
-      "Monday"
+      "Individual Coursework"
     </td>
     </tr>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Monday"
+      "Workshop assignments"
     </td>
     <td style="width: 49.9743%;">
-      "Monday"
+      "	12% (2 x 6%)"
     </td>
     <td style="width: 49.9743%;">
-      "Monday"
+      "Group coursework"
+    </td>
+    </tr>
+    
+  <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Group Research Report:"
+    </td>
+    <td style="width: 49.9743%;">
+      "23%"
+    </td>
+    <td style="width: 49.9743%;">
+      "Group coursework"
     </td>
     </tr>
 
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Monday"
+      "Midsemester Test"
     </td>
     <td style="width: 49.9743%;">
-      "Monday"
+      "20%"
     </td>
     <td style="width: 49.9743%;">
-      "Monday"
+      "	Individual Examination"
     </td>
     </tr>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Monday"
+      "Final Exam: "
     </td>
     <td style="width: 49.9743%;">
-      "Monday"
+      "30%"
     </td>
     <td style="width: 49.9743%;">
-      "Monday"
+      "Individual Examination"
     </td>
     </tr>
 
