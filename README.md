@@ -34,7 +34,7 @@ Xinyu Zhang
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
       "Monday"
-      «span>&nbsp;</span>
+      <span>&nbsp;</span>
       <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
     </td>
     <td style="width: 49.9743%;">
