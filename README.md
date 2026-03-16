@@ -60,7 +60,7 @@ Xinyu Zhang
 https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/graduate-profile.html
 
 ## Capabilities Developed in this Course
-Capability 1:	People and Place
+Capability 1:	People and Place </br>
 Capability 2:	Sustainability
 Capability 3:	Knowledge and Practice
 Capability 4:	Critical Thinking
