@@ -1,4 +1,8 @@
 # COMPSCI-713-AI-Fundamentals
+<div align="center">
+  <p><em>2026 Semester One (1263)</em></p>
+  <p><em>https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=COMPSCI%20713</em></p>
+</div>
 
 ## Welcome to COMPSCI 713!
 This course is one of the four core courses of the Master of Artificial Intelligence program. It examines the core concepts and techniques in AI, including breakthroughs in symbolic AI, machine learning, and neural networks. Real-world applications are presented, with a focus on AI research in Aotearoa/NZ and ethical considerations.
@@ -10,3 +14,22 @@ This course is one of the four core courses of the Master of Artificial Intellig
 
 ## Course Overview
 Examines the core concepts and techniques in AI. Students will be exposed to the various schools of thought that have shaped AI since its inception in the 1940s and the relation of these ideas to prior work. This will include an introduction to pioneering breakthroughs in symbolic AI, including heuristic search, constraint satisfaction, and knowledge representation, Bayesian inference, statistical methods of machine learning, and connectionist ideas about brain-inspired neural networks, which have given rise to the contemporary developments of deep learning. We present a range of real-world applications of AI; in particular, the course will present a catalogue characterising AI research in Aotearoa/NZ as well as technological background towards realising ethical AI. We examine both theoretical and practical components and the content is designed to be accessible to students that do not have extensive programming experience.
+
+## Teaching Details
+**Lecture Details**
+Thomas Lacombe (course coordinator)
+Xinyu Zhang
+
+**Teaching Dates/Times**
+<div align="center">
+  <table style="border-collapse:collapse; width:97.381% ;height: 110px;" border="1">
+  <caption>Times and locations</caption>
+  <tbody>
+    <tr>
+      
+    </tr>
+  </tbody>
+    
+  </table>
+</div>
+
