@@ -2,7 +2,6 @@
 <div align="center">
   <p><em>2026 Semester One (1263)</em></p>
   <a class="inline_disabled" href="https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=COMPSCI%20713" target="_blank"> Course Outline </a>
-  <p><em>https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=COMPSCI%20713</em></p>
 </div>
 
 ## Welcome to COMPSCI 713!
