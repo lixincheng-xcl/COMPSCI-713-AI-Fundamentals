@@ -87,6 +87,7 @@ By the end of this course, students will be able to: </br>
     <th style="width: 49.9743%; height: 30px;" scope="col">Weighting</th>
     <th style="width: 49.9743%; height: 30px;" scope="col">Classification</th>
   </tr>
+    
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
       "Monday"
@@ -122,9 +123,83 @@ By the end of this course, students will be able to: </br>
       <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
     </td>
     </tr>
+
+    <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    </tr>
+    
+  <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    </tr>
+
+    <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    </tr>
+    
+  <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    </tr>
+
+
+    
 </tbody>
 </table>
-<p>workshops will be held during the Thursday 2-hour session in Week 5 and Week 7.</p>
 </div>
 
 
