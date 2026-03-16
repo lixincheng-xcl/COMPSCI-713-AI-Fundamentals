@@ -56,3 +56,89 @@ Xinyu Zhang
 <p>workshops will be held during the Thursday 2-hour session in Week 5 and Week 7.</p>
 </div>
 
+## Graduate Profile
+https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/graduate-profile.html
+
+## Capabilities Developed in this Course
+Capability 1:	People and Place
+Capability 2:	Sustainability
+Capability 3:	Knowledge and Practice
+Capability 4:	Critical Thinking
+Capability 5:	Solution Seeking
+Capability 6:	Communication
+Capability 7:	Collaboration
+Capability 8:	Ethics and Professionalism
+
+## Learning Outcomes
+By the end of this course, students will be able to: 
+    Utilise logic and symbolic representations for knowledge representation task (Capability 3 and 4)
+    Apply and explain symbolic AI methods in problem solving. (Capability 3 and 4)
+    Apply and explain ML methods in classification and regression tasks. (Capability 3 and 4)
+    Critically explain and discuss the relationship between symbolic and ML approaches. (Capability 3 and 4)
+    Develop and evaluate deep learning solutions for simple applications. (Capability 3, 4 and 5)
+    Apply and explain AI techniques to a NZ context (Capability 1, 2, 3, 4, 5, 6, 7 and 8
+
+## Assessments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
