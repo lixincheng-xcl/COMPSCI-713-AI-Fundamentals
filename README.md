@@ -38,7 +38,7 @@ Xinyu Zhang
     <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$2" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
     </td>
     <td style="width: 49.9743%;">
-       "Individual Coursework"
+     <a class="inline_disabled" href="https://maps.auckland.ac.nz/auckland/fa64ffa351cb4fe680fa2929/details/23820e3cb052420ca5d7f90f&quot; target="_blank">BLT100/106-100</a>
     </td>
     </tr>
   <tr style="height: 28px;">
@@ -90,73 +90,73 @@ By the end of this course, students will be able to: </br>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Online quizzes:"
+      Online quizzes:
     </td>
     <td style="width: 49.9743%;">
-      "	5% (5 x 1%)"
+      5% (5 x 1%)
     </td>
     <td style="width: 49.9743%;">
-      "Individual Coursework"
-    </td>
-    </tr>
-    
-  <tr style="height: 26px;">
-    <td style="width: 49.9743%;">
-      "Individual Presentation Recording:"
-    </td>
-    <td style="width: 49.9743%;">
-      "10%"
-    </td>
-    <td style="width: 49.9743%;">
-      "Individual Coursework"
+      Individual Coursework
     </td>
     </tr>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Workshop assignments"
+      Individual Presentation Recording:
     </td>
     <td style="width: 49.9743%;">
-      "	12% (2 x 6%)"
+      10%
     </td>
     <td style="width: 49.9743%;">
-      "Group coursework"
+      Individual Coursework
     </td>
     </tr>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Group Research Report:"
+      Workshop assignments
     </td>
     <td style="width: 49.9743%;">
-      "23%"
+      12% (2 x 6%)
     </td>
     <td style="width: 49.9743%;">
-      "Group coursework"
+      Group coursework
+    </td>
+    </tr>
+    
+  <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      Group Research Report:
+    </td>
+    <td style="width: 49.9743%;">
+      23%
+    </td>
+    <td style="width: 49.9743%;">
+      Group coursework
     </td>
     </tr>
 
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Midsemester Test"
+      Midsemester Test
     </td>
     <td style="width: 49.9743%;">
-      "20%"
+      20%
     </td>
     <td style="width: 49.9743%;">
-      "	Individual Examination"
+      Individual Examination
     </td>
     </tr>
     
   <tr style="height: 26px;">
     <td style="width: 49.9743%;">
-      "Final Exam: "
+      Final Exam: 
     </td>
     <td style="width: 49.9743%;">
-      "30%"
+      30%
     </td>
     <td style="width: 49.9743%;">
-      "Individual Examination"
+      Individual Examination
     </td>
     </tr>
 
