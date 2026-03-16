@@ -24,7 +24,7 @@ Xinyu Zhang
 **Teaching Dates/Times**
 
 <div align="center">
-  <table style="border-collapse:collapse; width:97.381% ;height: 110px;" border="1">
+  <table style="border-collapse:collapse;" border="1">
   <caption>Times and locations</caption>
   <tbody>
   <tr style="height: 28px;">
