@@ -61,25 +61,143 @@ https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-pol
 
 ## Capabilities Developed in this Course
 Capability 1:	People and Place </br>
-Capability 2:	Sustainability
-Capability 3:	Knowledge and Practice
-Capability 4:	Critical Thinking
-Capability 5:	Solution Seeking
-Capability 6:	Communication
-Capability 7:	Collaboration
+Capability 2:	Sustainability </br>
+Capability 3:	Knowledge and Practice </br>
+Capability 4:	Critical Thinking </br>
+Capability 5:	Solution Seeking </br>
+Capability 6:	Communication </br>
+Capability 7:	Collaboration </br>
 Capability 8:	Ethics and Professionalism
 
 ## Learning Outcomes
-By the end of this course, students will be able to: 
-    Utilise logic and symbolic representations for knowledge representation task (Capability 3 and 4)
-    Apply and explain symbolic AI methods in problem solving. (Capability 3 and 4)
-    Apply and explain ML methods in classification and regression tasks. (Capability 3 and 4)
-    Critically explain and discuss the relationship between symbolic and ML approaches. (Capability 3 and 4)
-    Develop and evaluate deep learning solutions for simple applications. (Capability 3, 4 and 5)
+By the end of this course, students will be able to: </br>
+    Utilise logic and symbolic representations for knowledge representation task (Capability 3 and 4) </br>
+    Apply and explain symbolic AI methods in problem solving. (Capability 3 and 4) </br>
+    Apply and explain ML methods in classification and regression tasks. (Capability 3 and 4) </br>
+    Critically explain and discuss the relationship between symbolic and ML approaches. (Capability 3 and 4) </br>
+    Develop and evaluate deep learning solutions for simple applications. (Capability 3, 4 and 5) </br>
     Apply and explain AI techniques to a NZ context (Capability 1, 2, 3, 4, 5, 6, 7 and 8
 
 ## Assessments
+<div align="center">
+  <table style="border-collapse:collapse; width:97.381% ;height: 110px;" border="1">
+  <tbody>
+  <tr style="height: 28px;">
+    <th style="width: 49.9743%; height: 30px;" scope="col">Assessment Group</th>
+    <th style="width: 49.9743%; height: 30px;" scope="col">Weighting</th>
+    <th style="width: 49.9743%; height: 30px;" scope="col">Classification</th>
+  </tr>
+  <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    </tr>
+    
+  <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    </tr>
 
+      <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    </tr>
+
+      <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    </tr>
+
+      <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    </tr>
+
+      <tr style="height: 26px;">
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    <td style="width: 49.9743%;">
+      "Monday"
+      <span>&nbsp;</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$1" class="ps_box-value" aria-disabled="true">12:00 to 13:00</span>
+    </td>
+    </tr>
+</tbody>
+</table>
+<p>workshops will be held during the Thursday 2-hour session in Week 5 and Week 7.</p>
+</div>
 
 
 
