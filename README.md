@@ -1,6 +1,7 @@
 # COMPSCI-713-AI-Fundamentals
 <div align="center">
   <p><em>2026 Semester One (1263)</em></p>
+  <a class="inline_disabled" href="https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=COMPSCI%20713" target="_blank"> Course Outline </a>
   <p><em>https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=COMPSCI%20713</em></p>
 </div>
 
@@ -21,6 +22,7 @@ Thomas Lacombe (course coordinator)
 Xinyu Zhang
 
 **Teaching Dates/Times**
+
 <div align="center">
   <table style="border-collapse:collapse; width:97.381% ;height: 110px;" border="1">
   <caption>Times and locations</caption>
